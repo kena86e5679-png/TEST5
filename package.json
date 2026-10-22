@@ -1,0 +1,13 @@
+{
+  "name": "ar-spatial-multiplayer",
+  "version": "4.0.0",
+  "description": "空間偏好 AR：5m網格陣列定位、精確建築尺度生成、即時多人同步與敵人識別系統",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.17.0"
+  }
+}
